@@ -101,6 +101,9 @@ span.image img {
 	margin: 0 auto;
 	border-radius: 100%;
 	box-shadow: 0 0 0 1.5em #ffffff;
+	width: 240px;
+	height: 240px;
+	object-fit: cover;
 	max-width: 240px;
 	max-height: 240px;
 }
